@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "location": "Chennai, Tamilnadu",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-710813279845193827/original/8f8f2d75-bb8e-45f9-ba87-c736fc80c50a.jpeg?im_w=720"
+  },
+  {
+    "id": 2,
+    "location": "Anna nagar, channai",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-45919347/original/14de6805-dc4b-47c4-90b5-a2f53780cc96.jpeg?im_w=720"
+  },
+  {
+    "id": 3,
+    "location": "Karapakam, channai",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-710813279845193827/original/8f8f2d75-bb8e-45f9-ba87-c736fc80c50a.jpeg?im_w=720"
+  },
+  {
+    "id": 4,
+    "location": "Shollinganalur, chaennai",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51720528/original/b62b92b5-deeb-4991-a2cf-df3c7bfcbf87.jpeg?im_w=720"
+  },
+  {
+    "id": 5,
+    "location": "Navalur, chennai",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51720528/original/b62b92b5-deeb-4991-a2cf-df3c7bfcbf87.jpeg?im_w=720"
+  },
+  {
+    "id": 6,
+    "location": "Semencheri, chennai",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-5089706/original/2d36f35f-b17a-46f9-9503-624225aed771.jpeg?im_w=720"
+  },
+  {
+    "id": 7,
+    "location": "Koyambedu, chennai",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-681728833017830381/original/88584e71-327c-4bf5-9667-461614801e4b.jpeg?im_w=720"
+  },
+  {
+    "id": 8,
+    "location": "Vadapalani, chennai",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-553185146222080574/original/5747675c-21ba-4a0f-aa23-ea783e8f8676.jpeg?im_w=720"
+  },
+  {
+    "id": 9,
+    "location": "Perungudi, chennai",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-553185146222080574/original/5747675c-21ba-4a0f-aa23-ea783e8f8676.jpeg?im_w=720"
+  },
+  {
+    "id": 10,
+    "location": "Thoraipakam, chennai",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-21209715/original/4a770bd5-575b-410a-af3e-38fcf3413330.jpeg?im_w=720"
+  },
+  {
+    "id": 11,
+    "location": "",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-842520026902033604/original/d17fbd58-e8fb-4d5d-b3f0-0fdc3d91cee8.jpeg?im_w=720"
+  },
+  {
+    "id": 12,
+    "location": "TamilNadu, India",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/a569ec98-7a60-4448-9489-a5dd8b500b3b.jpg?im_w=720"
+  },
+  {
+    "id": 13,
+    "location": "TamilNadu, India",
+    "city": "chennai",
+    "price": 20,
+    "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-948122787106885326/original/9eb89c95-b341-4d5f-be72-62cdc0924e82.jpeg?im_w=720"
+  }
+]
